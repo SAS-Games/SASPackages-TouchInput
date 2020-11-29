@@ -1,0 +1,10 @@
+{
+  "name": "com.sas.touchmanagment",
+  "version": "0.0.1",
+  "displayName": "SAS TouchManagment",
+  "unity": "2018.4",
+  "dependencies": {
+    "com.sas.utilities": "0.0.1"
+  },
+  "hideInEditor": true
+}
